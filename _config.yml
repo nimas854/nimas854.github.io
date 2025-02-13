@@ -1,17 +1,17 @@
 # site settings
 title: Sherabnima
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: 02240358.cst@edu.rub.bt
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Sherab NIma 
+author: Sherab Nima Rigzin
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Thimphu
+state: Thimphu
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Bhutan
+phone: (975+) 17275399
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

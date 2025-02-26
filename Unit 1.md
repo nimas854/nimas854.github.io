@@ -18,4 +18,4 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Leason 1</h2>
-<p> </p>
+<p></p>

@@ -2,7 +2,7 @@
 layout: page
 title: Unit 2
 description: Data and Database
-image: assets/images/pic01.jpg
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "nimas854.github.io",
+			"path": "."
+		},
+		{
+			"name": "hexo-theme-nebula",
+			"path": "../hexo-theme-nebula"
+		}
+	]
+}

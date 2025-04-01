@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unit 2
-description: Data and Database
+description: ERD
 image: assets/images/pic02.jpg
 nav-menu: true
 ---

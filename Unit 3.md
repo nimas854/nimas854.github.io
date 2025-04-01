@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Unit 3
-description: Data and Database
-image: assets/images/pic02.jpg
+description: PostgreSQL
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
